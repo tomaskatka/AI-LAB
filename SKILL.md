@@ -119,9 +119,9 @@ Při čtení sleduj a poznamenej si:
 
 **Plný zápis:** drž osu z `references/struktura-zapisu.md`. Klíčové prvky:
 
-- **Frontmatter** s plnými metadaty (projekt, datum, délka, facilitátoři, účastníci s rolemi, zdroje, **disambiguace duplicitních jmen** — viz role-a-jmena.md)
+- **Frontmatter** s plnými metadaty (projekt, datum, délka, facilitátoři, účastníci s rolemi, zdroje, **disambiguace duplicitních jmen** — viz `references/role-a-jmena.md`)
 - **TL;DR** s 5–10 větami — hlavní strategické závěry, klíčové insighty, body sporu, mezery v záznamu (pokud existují)
-- **Tematické sekce** podle typu workshopu (typy-workshopu.md)
+- **Tematické sekce** podle typu workshopu (`references/typy-workshopu.md`)
 - **Slovník** klienta — samostatná sekce
 - **Konkrétní příběhy a use cases** — samostatná sekce, doslovně nebo téměř doslovně
 - **Hypotézy k ověření v dalším výzkumu** — číslované
